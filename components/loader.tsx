@@ -7,10 +7,10 @@ export const Loader = () => {
                 <Image 
                     alt="Logo"
                     fill
-                    src="/logo.png"
+                    src="/ai-logo.png"
                 />
             </div>
-            <p className="text-sm text-muted-foreground">Genius is thinking...</p>
+            <p className="text-sm text-muted-foreground">AI search is thinking...</p>
         </div>
     );
 }
